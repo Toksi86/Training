@@ -17,4 +17,4 @@ def check_password(password):
         print('Bad password ')
 
 
-check_password('Input her your password')
+check_password('Input your your password')
